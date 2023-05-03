@@ -1,6 +1,8 @@
-# meals_app
+# Meals App
 
-A new Flutter project.
+A practice project for learning flutter.
+
+An app containing a variety of dishes along with their recipes. Navigate to find your favourite dish and add it to your favourites.
 
 ## Getting Started
 
