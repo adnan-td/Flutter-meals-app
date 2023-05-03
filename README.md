@@ -4,15 +4,7 @@ A practice project for learning flutter.
 
 An app containing a variety of dishes along with their recipes. Navigate to find your favourite dish and add it to your favourites.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/78212328/235908630-21b4d4bb-cf7c-4847-a916-8ad4dfdbaf33.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
